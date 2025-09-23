@@ -1,8 +1,9 @@
 # Projekt-3-Focus-Responzivni-jednostrankovy-web-JS
 Třetí projekt k certifikaci v kurzu Front-end developer akademie ENGETO
 
-# Projekt Focus - Responzivní webová stránka
 Vytvořil: Tereza Divišová | 04-2025
+
+Web s podporou Dark/Light režimu, formulářem s validací a moderním uživatelským rozhraním. Tento web byl posledním projektem pro splnění certifikace v kurzu Engeto - Front-end Web Developer Akademie, při tvorbě jsem se tedy řídila zadáním, přesto velká část věcí je pouze podle mých představ a nápadů.
 
 ## 🌐 Jednostránkový responzivní web zaměřený na organizaci projektů a úkolů.
 
